@@ -1,1 +1,4 @@
 
+[submodule "docs/Training"]
+	path = docs/Training
+	url = git@github.com:JaegerWeapon/Training.git
